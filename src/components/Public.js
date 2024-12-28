@@ -4,18 +4,18 @@ const Public = () => {
     const content = (
         <section className="public">
             <header>
-                <h1>Welcome ch7 24.1226 11:35 to <span className="nowrap">Dan D. Repairs!</span></h1>
+                <h1>Welcome ch10 24.1228 11:43 to <span className="nowrap">the test site</span></h1>
             </header>
             <main className="public__main">
-                <p>Located in Beautiful Downtown Foo City, Dan D. Repairs  provides a trained staff ready to meet your tech repair needs.</p>
+                <p>React (MERN) test site.</p>
                 <address className="public__addr">
-                    Dan D. Repairs<br />
-                    555 Foo Drive<br />
-                    Foo City, CA 12345<br />
+                    aaaaaaaaa<br />
+                    aaaaaaaaaaaa<br />
+                    ccccc City, CA 12345<br />
                     <a href="tel:+15555555555">(555) 555-5555</a>
                 </address>
                 <br />
-                <p>Owner: Dan Davidson</p>
+                <p>Owner: xxxxxxxxxx</p>
             </main>
             <footer>
                 <Link to="/login">Employee Login</Link>
