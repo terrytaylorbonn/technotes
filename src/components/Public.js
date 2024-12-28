@@ -4,7 +4,7 @@ const Public = () => {
     const content = (
         <section className="public">
             <header>
-                <h1>Welcome ch10 24.1228 11:43 to <span className="nowrap">the test site</span></h1>
+                <h1>Welcome ch11 24.1228 12:52 to <span className="nowrap">the test site</span></h1>
             </header>
             <main className="public__main">
                 <p>React (MERN) test site.</p>
